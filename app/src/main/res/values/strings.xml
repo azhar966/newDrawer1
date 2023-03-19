@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavDrawer1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="homefragment">Home Screen</string>
+    <string name="userfragment">Profile Section</string>
+    <string name="messagefragment">Inbox</string>
+    
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+</resources>
